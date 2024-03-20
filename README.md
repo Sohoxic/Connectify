@@ -30,6 +30,9 @@ make
 ```
 4. In the same folder [X], create an empty directory with the same name as each client's username for every user.
 5. Launch the server by running `./server.out [ServerPortNo]`.
+```
+./server.out [ServerPortNo]
+```
 
 #### Setting Up the Client
 
