@@ -1,5 +1,5 @@
 // pass port number of server as command line argument
-// how to use -->prithi@HP$./server.out 9999
+// how to use -->username@pop-os:~$./server.out 8000
 #include "common.c"
 int sockfd,newsockfd;
 void signalHandler(int signo) {
