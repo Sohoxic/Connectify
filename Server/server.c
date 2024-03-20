@@ -356,17 +356,3 @@ R:	close(newsockfd);
 	
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
